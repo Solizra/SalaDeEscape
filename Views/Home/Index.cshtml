@@ -2,7 +2,26 @@
     ViewData["Title"] = "Index";
 }
 
-<div>
-    <h1>Index</h1>
-    <p>Bienvenidos al sitio web de NombreProyecto</p>
-</div>
+<header>
+    <a href='@Url.Action("Home", "Index")'><img src='img/LOGO.png'></a> 
+    <h1> La Profecía del Faraón </h1>
+    <p> El tesoro perdido </p>
+
+    <nav>
+        <ul>
+            <li><a href='@Url.Action("Tutorial", "Home")'>Tutorial</a><li>  
+            <li><a href='@Url.Action("Creditos", "Home")'>Créditos</a><li>  
+        </ul>
+    </nav>
+</header>
+
+<section>  
+   <img src='img/fotoDescriptiva1.jpg'>
+   <img src='img/fotoDescriptiva2.avif'>
+   <img src='img/fotoDescriptiva3.jpg'>
+   <nav>
+        <ul>
+            <li><a href='@Url.Action("Comenzar", "Home")'>Comenzar</a><li>  
+        </ul>
+    </nav>
+</section>
