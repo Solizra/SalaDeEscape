@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "Z:\\Programacion\\4to\\Github\\2do bim\\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\\SalaDeEscape\\SalaDeEscape.csproj": {}
   },
   "projects": {
@@ -19,6 +20,25 @@
         "configFilePaths": [
           "C:\\Users\\48796333\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+    "c:\\Users\\48313633\\SalaDeEscape\\SalaDeEscape.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\48313633\\SalaDeEscape\\SalaDeEscape.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\48313633\\SalaDeEscape\\SalaDeEscape.csproj",
+        "projectName": "SalaDeEscape",
+        "projectPath": "c:\\Users\\48313633\\SalaDeEscape\\SalaDeEscape.csproj",
+        "packagesPath": "C:\\Users\\48313633\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\48313633\\SalaDeEscape\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\48313633\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 6b7f042f643585878187c504988aba2e8ea0f5e4
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +87,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 6b7f042f643585878187c504988aba2e8ea0f5e4
         }
       }
     }
