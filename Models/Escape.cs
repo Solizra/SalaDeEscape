@@ -1,11 +1,11 @@
 static class Escape{
 private static string[] incognitasSalas;
 
-static int estadoJuego = 1;
+static int estadoJuego = 0;
 
 private static void InicializarJuego()
 {
-incognitasSalas = new string[] { "1", "2", "3", "4" };
+    incognitasSalas = new string[] {"", "1", "2", "3", "4" };
 }
 public static int GetEstadoJuego()
 {
@@ -23,7 +23,7 @@ public static bool ResolverSala(int Sala, string Incognita)
         return false;
     }
 
-    else if (Incognita==incognitasSalas[Sala-1]) 
+    else if (Incognita==incognitasSalas[Sala]) 
     {
         estadoJuego++;
         return true;
