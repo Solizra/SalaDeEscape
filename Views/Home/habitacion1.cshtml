@@ -3,3 +3,16 @@
 }
 
 <h1>Bienvenidos a la habitacion 1 de La Profecía Egipcia</h1>
+<h4>Mientras explorabas un antiguo templo egipcio, tropezaste con una fotografía polvorienta. La imagen muestra una pirámide enigmática, cada nivel adornado con una secuencia de números misteriosos. Tu misión es desentrañar el código y descubrir el número secreto que corona la cima de la pirámide.</h4>
+
+<img src="~/img/Acertijo1.jpg" alt="Acertijo">
+
+<h5>Ingrese la respuesta del Acertijo dividiendola entre 25</h5>
+<form method="post" action="@Url.Action("Habitacion", "Home")" >
+    <input type="hidden" name="sala" value=1>
+    <input type="text" name="clave">
+    <input type="submit" value="Enviar Respuesta">
+</form>
+<button class="Pista1">Pista</button>
+
+<p>@ViewBag.MensajeError</p>

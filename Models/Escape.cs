@@ -1,11 +1,11 @@
 static class Escape{
 private static string[] incognitasSalas;
 
-static int estadoJuego = 0;
+static int estadoJuego = 1;
 
 private static void InicializarJuego()
 {
-    incognitasSalas = new string[] {"", "1", "2", "3", "4" };
+    incognitasSalas = new string[] {"", "5", "8", "18", "1" };
 }
 public static int GetEstadoJuego()
 {

@@ -75,6 +75,16 @@ header nav ul li a{
 header nav ul li:hover{
   background-color: #0f4649;  
 }
-
+img{
+  width: 30%;
+}
+main div a{
+  width: 20%;
+  height: auto;
+}
+section img {
+  width: 33%;
+  border-radius: 20px;
+}
 
 

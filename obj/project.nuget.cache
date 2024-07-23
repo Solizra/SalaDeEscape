@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "D7rqJRVOPW0eHrmw5EkvDEViWxlRbAjN/jYXKAiXfXBWaj0+waVFs6R79xZs4RqGJZEJIttMERmkYmWPvh1NfA==",
+  "dgSpecHash": "m0lDiohGxpSO1MSiJri2M+6qHemxSwIhqnev+O6gzYel76fgNRalSIJFAisTcZESPyOoojgL1LG88Bq5+JQBFw==",
   "success": true,
-  "projectFilePath": "Z:\\Programacion\\4to\\Github\\2do bim\\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\\SalaDeEscape\\SalaDeEscape.csproj",
-=======
-  "dgSpecHash": "aW1lpPcNnDrkolDMyrPdnh3vxFseydm8LM0FkXxEf8ioCeFtlCdAZbxSpUDYYrh0C2ouZDGIsJBY9ajKr0/Ozg==",
-  "success": true,
-  "projectFilePath": "c:\\Users\\48313633\\SalaDeEscape\\SalaDeEscape.csproj",
->>>>>>> 6b7f042f643585878187c504988aba2e8ea0f5e4
+  "projectFilePath": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\SalaDeEscape.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
