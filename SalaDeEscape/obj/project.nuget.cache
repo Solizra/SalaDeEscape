@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hj+Y+1b2qDMdiYHyID1bCvUasOQF0PlM6/nOi9XRDh4zxOyUPUG89CpRTY01tQB34glY+zxjYoTJC1HRhNNFfg==",
+  "success": true,
+  "projectFilePath": "E:\\Prog2024\\SalaEscape\\SalaDeEscape\\SalaDeEscape.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Prog2024\\SalaEscape\\SalaDeEscape\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}

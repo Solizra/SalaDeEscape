@@ -1,0 +1,90 @@
+html {
+  font-size: 14px;
+  min-height: 100%;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+body{
+  background-color: rgb(126, 121, 121);
+}
+header{
+  width: 100%;
+  height: 20%;  
+  background-color: black
+}
+
+header img{
+  width: 100%;
+  height: auto;
+
+}
+
+header p{
+  width: 100%;
+  height: 2%;
+  font-size: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  margin-left: 5%;
+}
+
+header nav{
+  width: 40%;
+  height: auto;
+  display: flex;
+}
+
+header nav ul{
+  display: flex;
+  width: 99%;
+  height: 45%;
+}
+header nav{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header nav ul li{
+  display: flex;
+  justify-content: center;
+  margin: 1%;
+  margin-left: 15%;
+  list-style: none;
+  padding: 1%;
+  background-color: #d82121;
+  border-radius: 3px;
+}
+header nav ul li a{
+  text-decoration: none;
+  color: #e3e2e2;
+  font-size: 18px;
+ 
+}
+header nav ul li:hover{
+  background-color: #0f4649;  
+}
+img{
+  width: 30%;
+}
+main div a{
+  width: 20%;
+  height: auto;
+}
+section img {
+  width: 33%;
+  border-radius: 20px;
+}
+
+

@@ -1,0 +1,58 @@
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\bin\Debug\net8.0\appsettings.Development.json
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\bin\Debug\net8.0\appsettings.json
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.staticwebassets.runtime.json
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.exe
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.deps.json
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.runtimeconfig.json
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.dll
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.pdb
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.AssemblyInfoInputs.cache
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.AssemblyInfo.cs
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.csproj.CoreCompileInputs.cache
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.MvcApplicationPartsAssemblyInfo.cache
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.RazorAssemblyInfo.cache
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.RazorAssemblyInfo.cs
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.sourcelink.json
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.SalaDeEscape.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.build.SalaDeEscape.props
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SalaDeEscape.props
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SalaDeEscape.props
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\scopedcss\bundle\SalaDeEscape.styles.css
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.dll
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\refint\SalaDeEscape.dll
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.pdb
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.genruntimeconfig.cache
+Z:\Programacion\4to\Github\2do bim\TP5_EscapeRoom_Izraelewicz_Benezra_Sasson_Landivar\SalaDeEscape\obj\Debug\net8.0\ref\SalaDeEscape.dll
+E:\Prog2024\SalaEscape\SalaDeEscape\bin\Debug\net8.0\appsettings.Development.json
+E:\Prog2024\SalaEscape\SalaDeEscape\bin\Debug\net8.0\appsettings.json
+E:\Prog2024\SalaEscape\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.staticwebassets.runtime.json
+E:\Prog2024\SalaEscape\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.exe
+E:\Prog2024\SalaEscape\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.deps.json
+E:\Prog2024\SalaEscape\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.runtimeconfig.json
+E:\Prog2024\SalaEscape\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.dll
+E:\Prog2024\SalaEscape\SalaDeEscape\bin\Debug\net8.0\SalaDeEscape.pdb
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.AssemblyInfoInputs.cache
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.AssemblyInfo.cs
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.csproj.CoreCompileInputs.cache
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.MvcApplicationPartsAssemblyInfo.cache
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.RazorAssemblyInfo.cache
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.RazorAssemblyInfo.cs
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.sourcelink.json
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\staticwebassets.build.json
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\staticwebassets.development.json
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.SalaDeEscape.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.build.SalaDeEscape.props
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SalaDeEscape.props
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SalaDeEscape.props
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\scopedcss\bundle\SalaDeEscape.styles.css
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.dll
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\refint\SalaDeEscape.dll
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.pdb
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\SalaDeEscape.genruntimeconfig.cache
+E:\Prog2024\SalaEscape\SalaDeEscape\obj\Debug\net8.0\ref\SalaDeEscape.dll

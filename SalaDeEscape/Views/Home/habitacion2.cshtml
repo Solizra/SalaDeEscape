@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Habitación 2";
+}
+
+<h1>Bienvenidos a la habitacion 2 de La Profecía Egipcia</h1>
+
+<img src="~/img/Acertijo2.jpg" alt="Acertijo">
+
+<form method="post" action="@Url.Action("Habitacion", "Home")" >
+    <input type="hidden" name="sala" value=2>
+    <input type="text" name="clave">
+    <input type="submit" value="Enviar Datos">
+</form>
+<button class="Pista2">Pista</button>
+<p>@ViewBag.MensajeError</p>

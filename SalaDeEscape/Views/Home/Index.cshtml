@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<header>
+        <nav>
+            <a href='@Url.Action("Index", "Home")'><img src="img/LOGO.png"></a>
+            <p>"LA PROFECÍA DEL FARAÓN"</p>
+            <ul>
+                <li> <a href='@Url.Action("Tutorial", "Home")'> Tutorial </a> </li>
+                <li> <a href='@Url.Action("Creditos", "Home")'> Creditos</a></li>
+            </ul>
+        </nav>
+    </header>
+<main>
+        <section class="image-gallery">
+            <img src="img/fotoDescriptiva1.jpg" alt="Descripción 1">
+            <img src="img/fotoDescriptiva2.jpg" alt="Descripción 2">
+            <img src="img/fotoDescriptiva3.jpg" alt="Descripción 3">
+        </section>
+        <div>
+            <a href='@Url.Action("Comenzar", "Home")' class="btn btn-outline-danger" tabindex="-1" role="button" aria-disabled="true">Comenzar</a>
+        </div>
+</main>
