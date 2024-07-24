@@ -9,15 +9,17 @@ html {
   }
 }
 
-
 *{
   margin: 0px;
   padding: 0px;
 
 }
-body{
-  background-color: rgb(126, 121, 121);
+
+body {
+  background-color: #e3dac9; /* Tono arena claro */
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 header{
   width: 100%;
   height: 20%;  
@@ -27,7 +29,6 @@ header{
 header img{
   width: 100%;
   height: auto;
-
 }
 
 header p{
@@ -50,6 +51,7 @@ header nav ul{
   width: 99%;
   height: 45%;
 }
+
 header nav{
   display: flex;
   align-items: center;
@@ -66,25 +68,117 @@ header nav ul li{
   background-color: #d82121;
   border-radius: 3px;
 }
+
 header nav ul li a{
   text-decoration: none;
   color: #e3e2e2;
   font-size: 18px;
  
 }
+
 header nav ul li:hover{
   background-color: #0f4649;  
 }
-img{
-  width: 30%;
+
+
+main div h2, main div p{
+  text-align: center;
+  color: #d82121;
+  font-weight: bolder;
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
-main div a{
-  width: 20%;
+
+main div h2{
+  font-size: 300%;
+  margin-top: 1%;
+}
+
+main div p{
+  font-size: 150%; 
+}
+
+main section{
+  width: 92%;
   height: auto;
-}
-section img {
-  width: 33%;
-  border-radius: 20px;
+  background-color: rgb(231, 231, 231);
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 1%;
 }
 
+section img{
+  width: 90%;
+  height: auto;
+  margin-left: 5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
 
+main section a{
+  width: 10%;
+  height: auto;
+  padding: 2%;
+  margin-left: 45%;
+}
+
+.habitaciones{
+  background-color: rgb(231, 231, 231);
+}
+
+.habitaciones div h1{
+  text-align: center;
+  color: #d82121;
+  font-weight: bolder;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 250%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+}
+
+.habitaciones div h4{
+  color: #2e2e2e;
+  font-weight: bolder;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 150%;
+  margin-top: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.habitaciones img{
+  width: 60%;
+  height: auto;
+  margin-left: 20%;
+}
+
+.respuesta{
+  clear: both;
+  font-size: 150%;
+  color: #d82121;
+  font-weight: bolder;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.habitaciones h2{
+  font-size: 130%;
+  color:black;
+  font-weight: bolder;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.habitaciones form{
+  margin-left: 40%;
+}
+
+.habitaciones button{
+  display: flex;
+  justify-content: center;
+  margin: 1%;
+  margin-left: 15%;
+  list-style: none;
+  padding: 1%;
+  background-color: #d82121;
+  border-radius: 3px;
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IRUgy3IWB1YYprcDoGUXHSF/tatnl8pABIKbMypZzYg=",
+  "Hash": "ULFsbbFmKok9/15cenNN0KXAa71r3XXmm7HWDQben/M=",
   "Source": "SalaDeEscape",
   "BasePath": "_content/SalaDeEscape",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\img\\Acertijo3.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\fotoDescriptiva1.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Acertijo4.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
-      "RelativePath": "img/fotoDescriptiva1.jpg",
+      "RelativePath": "img/Acertijo4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fotoDescriptiva1.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\Acertijo4.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\fotoDescriptiva2.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Final1.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
-      "RelativePath": "img/fotoDescriptiva2.jpg",
+      "RelativePath": "img/Final1.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fotoDescriptiva2.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\Final1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\fotoDescriptiva3.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Final2.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
-      "RelativePath": "img/fotoDescriptiva3.jpg",
+      "RelativePath": "img/Final2.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,7 +166,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fotoDescriptiva3.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\Final2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\fotosdescriptivas.jpg",
+      "SourceId": "SalaDeEscape",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/SalaDeEscape",
+      "RelativePath": "img/fotosdescriptivas.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fotosdescriptivas.jpg"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\LOGO.png",
@@ -188,12 +207,12 @@
       "OriginalItemSpec": "wwwroot\\img\\LOGO.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\puertafinal.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\PuertaFinal.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
-      "RelativePath": "img/puertafinal.jpg",
+      "RelativePath": "img/PuertaFinal.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,7 +223,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\puertafinal.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\PuertaFinal.jpeg"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Thumbs.db",

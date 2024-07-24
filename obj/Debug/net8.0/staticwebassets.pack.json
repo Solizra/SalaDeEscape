@@ -21,28 +21,32 @@
       "PackagePath": "staticwebassets\\img\\Acertijo3.png"
     },
     {
+      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Acertijo4.png",
+      "PackagePath": "staticwebassets\\img\\Acertijo4.png"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Final1.jpeg",
+      "PackagePath": "staticwebassets\\img\\Final1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Final2.jpeg",
+      "PackagePath": "staticwebassets\\img\\Final2.jpeg"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\LOGO.png",
       "PackagePath": "staticwebassets\\img\\LOGO.png"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\PuertaFinal.jpeg",
+      "PackagePath": "staticwebassets\\img\\PuertaFinal.jpeg"
     },
     {
       "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Thumbs.db",
       "PackagePath": "staticwebassets\\img\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\fotoDescriptiva1.jpg",
-      "PackagePath": "staticwebassets\\img\\fotoDescriptiva1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\fotoDescriptiva2.jpg",
-      "PackagePath": "staticwebassets\\img\\fotoDescriptiva2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\fotoDescriptiva3.jpg",
-      "PackagePath": "staticwebassets\\img\\fotoDescriptiva3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\puertafinal.jpg",
-      "PackagePath": "staticwebassets\\img\\puertafinal.jpg"
+      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\fotosdescriptivas.jpg",
+      "PackagePath": "staticwebassets\\img\\fotosdescriptivas.jpg"
     },
     {
       "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\js\\site.js",

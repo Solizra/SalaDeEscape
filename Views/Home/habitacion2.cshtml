@@ -3,13 +3,14 @@
 }
 
 <h1>Bienvenidos a la habitacion 2 de La Profecía Egipcia</h1>
+<h4>Luego de resolver el primer acertijo, una puerta de la piramide decide abrirse, pero dentro de ella solo se encontraba una pared con iconos sumandose, tu objetivo es encontrar el resultado final, para que así, la pared pueda desbloquearse y tu camino junto a Indiana Jones pueda continuar</h4>
 
 <img src="~/img/Acertijo2.jpg" alt="Acertijo">
 
 <form method="post" action="@Url.Action("Habitacion", "Home")" >
     <input type="hidden" name="sala" value=2>
     <input type="text" name="clave">
-    <input type="submit" value="Enviar Datos">
+    <input type="submit" value="Enviar Respuesta">
 </form>
 <button class="Pista2">Pista</button>
 <p>@ViewBag.MensajeError</p>

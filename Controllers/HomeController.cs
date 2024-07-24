@@ -23,6 +23,7 @@ public class HomeController : Controller
     }
 
     public IActionResult Comenzar(){
+        Escape.estadoJuego=1;
         int habitacion=Escape.GetEstadoJuego();
         return View($"habitacion{habitacion}");
     }
@@ -32,13 +33,12 @@ public class HomeController : Controller
         if (sala!=habitacion){
             return View($"habitacion{habitacion}");
         }
-        
         if (Escape.ResolverSala(sala, clave)){
             if(habitacion<5){
                 return View($"habitacion{habitacion+1}");
             }
             else{
-                return View($"habitacion{5}");
+                return View("Victoria");
             }
         }
         else{
