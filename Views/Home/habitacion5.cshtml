@@ -1,16 +1,26 @@
-    @{
+@{
     ViewData["Title"] = "Habitación 5";
 }
+<body class="habitacion5">
+<section class="final-room">
+    <div class="final-intro">
+        <h1>Bienvenidos a la FINAL de La Profecía Egipcia</h1>
+        <h4>Al abrirse la puerta final, te encontraste con una caja fuerte ENORME, ahí estaría todo el oro que estabas buscando junto con Indiana Jones! La caja te pedía un código de 5 dígitos, solamente que no había ningún acertijo para poder resolver que te ayude a encontrar la respuesta ¡Todos los resultados encontrados anteriormente son la respuesta correcta! Si se te olvidó cuáles eran, tendrás que volver al principio para poder así obtener todos los tesoros! BUENA SUERTE</h4>
+    </div>
 
-<h1>Bienvenidos a la FINAL de La Profecía Egipcia</h1>
+    <img src="~/img/PuertaFinal.jpeg" alt="PuertaFinal" class="final-image">
 
-<h4>Al arbrise la puerta final, te encontraste con una caja fuerte ENORME, ahí estaría todo el oro que estabas buscando junto con Indiana Jones! La caja te pedía un código de 5 dígitos, solamente que no había ningun acertijo para poder resolver que te ayude a encontrar la respuesta ¡Todos los resultados encontrados anteriormente son la respuesta correcta! Si se te olvidó cuales eran, tendrás que volver al principio para poder así obtener todos los tesoros! BUENA SUERTE</h4>
-<img src="~/img/PuertaFinal.jpeg" alt="PuertaFinal">
-<form method="post" action="@Url.Action("Habitacion", "Home")" >
-    <input type="hidden" name="sala" value=5>
-    <input type="text" name="clave">
-    <input type="submit" value="Enviar Respuesta">
-</form>
-<a href='@Url.Action("Index", "Home")' class="btn btn-danger" tabindex="-1" role="button" aria-disabled="true">Reinciar</a>
-
-<p>@ViewBag.MensajeError</p>
+    <div class="final-form-container">
+        <p class="final-answer-label">Código:</p>
+        
+        <form method="post" action="@Url.Action("Habitacion", "Home")" class="final-form">
+            <input type="hidden" name="sala" value="5">
+            <input type="text" name="clave" class="final-input" placeholder="Introduce tu código aquí">
+            <input type="submit" value="Enviar Respuesta" class="btn-final-submit">
+        </form>
+        
+        <a href='@Url.Action("Index", "Home")' class="btn-final-restart" tabindex="-1" role="button" aria-disabled="true">Reiniciar</a>
+        <p class="final-error-message">@ViewBag.MensajeError</p>
+    </div>
+</section>
+</body>

@@ -1,13 +1,15 @@
 ﻿@{
     ViewData["Title"] = "Index";
 }
-<header>
-        <nav>
-            <a href='@Url.Action("Index", "Home")'><img src="img/LOGO.png"></a>
-            <p>"LA PROFECÍA DEL FARAÓN"</p>
-            <ul>
-                <li> <a href='@Url.Action("Tutorial", "Home")'> Tutorial </a> </li>
-                <li> <a href='@Url.Action("Creditos", "Home")'> Créditos</a></li>
+ <header class="header-epico">
+        <nav class="nav-epica">
+            <a href='@Url.Action("Index", "Home")' class="logo-epico">
+                <img src="~/img/LOGO.png" alt="Logo" class="logo-imagen">
+            </a>
+            <p class="titulo-epico">"LA PROFECÍA DEL FARAÓN"</p>
+            <ul class="nav-lista">
+                <li class="nav-item"><a href='@Url.Action("Tutorial", "Home")' class="nav-enlace">Tutorial</a></li>
+                <li class="nav-item"><a href='@Url.Action("Creditos", "Home")' class="nav-enlace">Créditos</a></li>
             </ul>
         </nav>
     </header>

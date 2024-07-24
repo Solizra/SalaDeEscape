@@ -1,16 +1,25 @@
-    @{
+@{
     ViewData["Title"] = "Habitación 4";
 }
+<section class="sala-egipto">
+    <div class="intro-container">
+        <h1>Bienvenidos a la habitación 4 de La Profecía Egipcia</h1>
+        <p>Cuando la mini pirámide te permitió presionar el botón, el objeto se abrió y te brindó una llave con una forma peculiar. No sabías que podría abrir esta llave, por lo cual, decidiste seguir recorriendo la pirámide, hasta que te encontraste con una puerta ¡La PUERTA FINAL! ¡La que tendría todo el oro! ¡La habitación que te haría millonario! Es así, como abres la puerta con la llave previamente encontrada, pero el cuarto no estaba lleno de oro como te lo habías imaginado ¡Había otra puerta dentro! Y para poder abrirla necesitabas resolver el siguiente acertijo:</p>
+    </div>
 
-<h1>Bienvenidos a la habitacion 4 de La Profecía Egipcia</h1>
+    <img src="~/img/Acertijo4.png" alt="Acertijo" class="imagen-acertijo">
 
-<h4> Cuando la mini piramide te permitió presionar el boton,  el objeto se abrió y te brindó una llave con una forma peculiar. No sabías que podría abrir esta llave, por lo cual, decidiste seguir recorriendo la piramide, hasta que te encontraste con una puerta ¡La PUERTA FINAL! ¡La que tendría todo el oro! ¡La habitación que te haría millonario! Es así, como abres la puerta con la llave previamente encontrada, pero el cuarto no estaba lleno de oro como te lo habías imaginado ¡Había otra puerta dentro! Y para poder abrila necesitabas resolver el siguiente acertijo:</h4>
-<img src="~/img/Acertijo4.png" alt="Acertijo">
-<form method="post" action="@Url.Action("Habitacion", "Home")" >
-    <input type="hidden" name="sala" value=4>
-    <input type="text" name="clave">
-    <input type="submit" value="Enviar Respuesta">
-</form>
-<button class="Pista4">Pista</button>
-
-<p>@ViewBag.MensajeError</p>
+    <div class="form-container">
+        <p class="respuesta">Respuesta:</p>
+        <h2>(Divida el número obtenido en la puerta por /25 para poder pasar de habitación)</h2>
+        
+        <form method="post" action="@Url.Action("Habitacion", "Home")" class="formulario-respuesta">
+            <input type="hidden" name="sala" value="4">
+            <input type="text" name="clave" class="entrada-clave" placeholder="Introduce tu respuesta aquí">
+            <input type="submit" value="Enviar Respuesta" class="btn btn-respuesta">
+        </form>
+        
+        <button class="btn btn-pista">Pista</button>
+        <p class="mensaje-error">@ViewBag.MensajeError</p>
+    </div>
+</section>

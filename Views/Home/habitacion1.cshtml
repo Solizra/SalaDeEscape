@@ -1,25 +1,28 @@
 @{
     ViewData["Title"] = "Habitación 1";
 }
-<section class="habitaciones">
-    <div>
+<section class="habitaciones sala-egipto">
+    <div class="intro-container">
         <h1>Bienvenidos a la primera habitación de la pirámide</h1>
-        <h4>Mientras explorabas un antiguo templo egipcio, tropezaste con una fotografía polvorienta. La imagen muestra una pirámide enigmática, cada nivel adornado con una secuencia de números misteriosos. Tu misión es desentrañar el código y descubrir el número secreto que corona la cima de la pirámide para poder avanzar.</h4>
-        <h4>Esta es la imagen que encontraste:</h4>
+        <div class="intro-text">
+            <p>Mientras explorabas un antiguo templo egipcio, tropezaste con una fotografía polvorienta. La imagen muestra una pirámide enigmática, cada nivel adornado con una secuencia de números misteriosos. Tu misión es desentrañar el código y descubrir el número secreto que corona la cima de la pirámide para poder avanzar.</p>
+            <p>Esta es la imagen que encontraste:</p>
+        </div>
     </div>
 
-    <img src="~/img/Acertijo1.jpg" alt="Acertijo">
+    <img src="~/img/Acertijo1.jpg" alt="Acertijo" class="imagen-acertijo">
 
-    <p class="respuesta">Respuesta:</p>
-    <h2>(Divida el número obtenido en la punta de la pirámide por /25 para poder pasar de habitación)</h2>
-    
-    <form method="post" action="@Url.Action("Habitacion", "Home")" >
-        <input type="hidden" name="sala" value=1>
-        <input type="text" name="clave">
-        <input type="submit" value="Enviar Respuesta">
-    </form>
-    <button class="Pista1">Pista</button>
-
-    <p>@ViewBag.MensajeError</p>
-
+    <div class="form-container">
+        <p class="respuesta">Respuesta:</p>
+        <h2>(Divida el número obtenido en la punta de la pirámide por /25 para poder pasar de habitación)</h2>
+        
+        <form method="post" action="@Url.Action("Habitacion", "Home")" class="formulario-respuesta">
+            <input type="hidden" name="sala" value="1">
+            <input type="text" name="clave" class="entrada-clave" placeholder="Introduce tu respuesta aquí">
+            <input type="submit" value="Enviar Respuesta" class="btn btn-respuesta">
+        </form>
+        
+        <button class="btn btn-pista" aria-label="Obtener pista">Pista</button>
+        <p class="mensaje-error">@ViewBag.MensajeError</p>
+    </div>
 </section>

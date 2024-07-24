@@ -1,14 +1,27 @@
 @{
     ViewData["Title"] = "Habitación 3";
 }
-<h1>Bienvenidos a la habitacion 3 de La Profecía Egipcia</h1>
-<h4>Luego de que la pared haya sido desbloqueada en el piso se encontraba un pequeño objeto similar a una piramide, solamente que este tenía muchos triangulos y un boton, el cual no podíua ser presionado hasta determinar cuantos triangulos había en esta piramide, así que descubrelo!</h4>
-<img src="~/img/Acertijo3.png" alt="Acertijo">
-<form method="post" action="@Url.Action("Habitacion", "Home")" >
-    <input type="hidden" name="sala" value=3>
-    <input type="text" name="clave">
-    <input type="submit" value="Enviar Respuesta">
-</form>
-<button class="Pista3">Pista</button>
+<section class="habitaciones sala-egipto">
+    <div class="intro-container">
+        <h1>Bienvenidos a la habitación 3 de La Profecía Egipcia</h1>
+        <div class="intro-text">
+            <p>Luego de que la pared haya sido desbloqueada, en el piso se encontraba un pequeño objeto similar a una pirámide. Este objeto tenía muchos triángulos y un botón, el cual no podía ser presionado hasta determinar cuántos triángulos había en esta pirámide. ¡Descúbrelo!</p>
+        </div>
+    </div>
 
-<p>@ViewBag.MensajeError</p>
+    <img src="~/img/Acertijo3.png" alt="Acertijo" class="imagen-acertijo">
+
+    <div class="form-container">
+        <p class="respuesta">Respuesta:</p>
+        <h2>(Cuenta el número de triángulos en la pirámide para avanzar a la siguiente habitación)</h2>
+        
+        <form method="post" action="@Url.Action("Habitacion", "Home")" class="formulario-respuesta">
+            <input type="hidden" name="sala" value="3">
+            <input type="text" name="clave" class="entrada-clave" placeholder="Introduce tu respuesta aquí">
+            <input type="submit" value="Enviar Respuesta" class="btn btn-respuesta">
+        </form>
+        
+        <button class="btn btn-pista" aria-label="Obtener pista">Pista</button>
+        <p class="mensaje-error">@ViewBag.MensajeError</p>
+    </div>
+</section>

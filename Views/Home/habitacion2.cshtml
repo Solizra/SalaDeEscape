@@ -1,16 +1,21 @@
 @{
     ViewData["Title"] = "Habitación 2";
 }
+<section class="sala-egipto">
+    <div class="intro-container">
+        <h1>Bienvenidos a la habitación 2 de La Profecía Egipcia</h1>
+        <p>Luego de resolver el primer acertijo, una puerta de la pirámide decide abrirse, pero dentro de ella solo se encontraba una pared con iconos sumándose. Tu objetivo es encontrar el resultado final, para que así, la pared pueda desbloquearse y tu camino junto a Indiana Jones pueda continuar.</p>
+    </div>
 
-<h1>Bienvenidos a la habitacion 2 de La Profecía Egipcia</h1>
-<h4>Luego de resolver el primer acertijo, una puerta de la piramide decide abrirse, pero dentro de ella solo se encontraba una pared con iconos sumandose, tu objetivo es encontrar el resultado final, para que así, la pared pueda desbloquearse y tu camino junto a Indiana Jones pueda continuar</h4>
+    <img src="~/img/Acertijo2.jpg" alt="Acertijo" class="imagen-acertijo">
 
-<img src="~/img/Acertijo2.jpg" alt="Acertijo">
-
-<form method="post" action="@Url.Action("Habitacion", "Home")" >
-    <input type="hidden" name="sala" value=2>
-    <input type="text" name="clave">
-    <input type="submit" value="Enviar Respuesta">
-</form>
-<button class="Pista2">Pista</button>
-<p>@ViewBag.MensajeError</p>
+    <div class="form-container">
+        <form method="post" action="@Url.Action("Habitacion", "Home")" class="formulario-respuesta">
+            <input type="hidden" name="sala" value="2">
+            <input type="text" name="clave" class="entrada-clave" placeholder="Introduce tu respuesta aquí">
+            <input type="submit" value="Enviar Respuesta" class="btn btn-respuesta">
+        </form>
+        <button class="btn btn-pista" aria-label="Obtener pista">Pista</button>
+        <p class="mensaje-error">@ViewBag.MensajeError</p>
+    </div>
+</section>
