@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ULFsbbFmKok9/15cenNN0KXAa71r3XXmm7HWDQben/M=",
+  "Hash": "IC+M0rz6HE78ocbKF+r4/vLdL0dQWqQS+hQ4S2SexWc=",
   "Source": "SalaDeEscape",
   "BasePath": "_content/SalaDeEscape",
   "Mode": "Default",
@@ -188,12 +188,12 @@
       "OriginalItemSpec": "wwwroot\\img\\fotosdescriptivas.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\LOGO.png",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Logo.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
-      "RelativePath": "img/LOGO.png",
+      "RelativePath": "img/Logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\LOGO.png"
+      "OriginalItemSpec": "wwwroot\\img\\Logo.png"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\PuertaFinal.jpeg",
