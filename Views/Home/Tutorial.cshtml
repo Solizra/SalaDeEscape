@@ -1,24 +1,28 @@
 @{
     ViewData["Title"] = "Tutorial";
 }
-<header class="header-epico">
-    <nav class="nav-epica">
-        <a href='@Url.Action("Index", "Home")' class="logo-epico">
-            <img src="~/img/Logo.png" alt="Logo" class="logo-imagen">
+<header>
+    <nav>
+        <a href='@Url.Action("Index", "Home")'>
+            <img src="~/img/Logo.png" alt="Logo">
         </a>
-        <p class="titulo-epico">"LA PROFECÍA DEL FARAÓN"</p>
-        <ul class="nav-lista">
-            <li class="nav-item"><a href='@Url.Action("Tutorial", "Home")' class="nav-enlace">Tutorial</a></li>
-            <li class="nav-item"><a href='@Url.Action("Creditos", "Home")' class="nav-enlace">Créditos</a></li>
+        <p>"LA PROFECÍA DEL FARAÓN"</p>
+        <ul>
+            <li><a href='@Url.Action("Tutorial", "Home")' class="nav-enlace">Tutorial</a></li>
+            <li><a href='@Url.Action("Creditos", "Home")' class="nav-enlace">Créditos</a></li>
         </ul>
     </nav>
 </header>
 <body>
-    <div class="container-epic">
-        <h4 class="epic-text">
+    <div class="Tutorial">
+        <h2>Tutorial</h2>
+        <h4 class="Tutorialh4">
             En Indiana Jones y la Profecía Egipcia", te embarcas en una misión llena de misterio y peligro. Un antiguo templo egipcio ha sido descubierto, y en su interior yace una profecía que podría desencadenar un poder oscuro sobre el mundo.<br><br>
-            Como Indiana Jones, tienes solo 60 minutos para descifrar los secretos del templo. Las sombras se mueven y el tiempo se agota mientras fuerzas desconocidas tratan de detenerte. ¿Podrás resolver los enigmas y escapar antes de que el templo colapse y el destino se selle?<br><br>
+            Como Indiana Jones, tienes solo 7 minutos por sala para descifrar los secretos del templo. Las sombras se mueven y el tiempo se agota mientras fuerzas desconocidas tratan de detenerte. ¿Podrás resolver los enigmas y escapar antes de que el templo colapse y el destino se selle?<br><br>
             Prepárate para una aventura donde cada segundo cuenta.
         </h4>
     </div>
+    <section>
+        <img src="~/img/Tutorial.jpg" alt="Tutorial">
+    </section>
 </body>

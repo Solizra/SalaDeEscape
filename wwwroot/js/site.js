@@ -23,3 +23,33 @@
         });
     }
 });
+
+let minutos = 7;
+let segundos = 0;
+
+function actualizarContador() {
+    // Reducir el tiempo
+    if (segundos === 0) {
+        if (minutos === 0) {
+            clearInterval(intervalo);
+            redirigirAlFinal();
+            return;
+        }
+        minutos--;
+        segundos = 59;
+    } else {
+        segundos--;
+    }
+
+    const minutosFormateados = minutos.toString().padStart(2, '0');
+    const segundosFormateados = segundos.toString().padStart(2, '0');
+
+    document.getElementById('contador').textContent = `${minutosFormateados}:${segundosFormateados}`;
+}
+
+// Actualizar el contador cada segundo
+const intervalo = setInterval(actualizarContador, 1000);
+
+function redirigirAlFinal() {
+    window.location.href = '/Home/Derrota';
+}

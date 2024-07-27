@@ -1,18 +1,18 @@
 ﻿@{
     ViewData["Title"] = "Index";
 }
- <header class="header-epico">
-        <nav class="nav-epica">
-            <a href='@Url.Action("Index", "Home")' class="logo-epico">
-                <img src="~/img/Logo.png" alt="Logo" class="logo-imagen">
+<header>
+        <nav>
+            <a href='@Url.Action("Index", "Home")'>
+                <img src="~/img/Logo.png" alt="Logo">
             </a>
-            <p class="titulo-epico">"LA PROFECÍA DEL FARAÓN"</p>
-            <ul class="nav-lista">
-                <li class="nav-item"><a href='@Url.Action("Tutorial", "Home")' class="nav-enlace">Tutorial</a></li>
-                <li class="nav-item"><a href='@Url.Action("Creditos", "Home")' class="nav-enlace">Créditos</a></li>
+            <p>"LA PROFECÍA DEL FARAÓN"</p>
+            <ul>
+                <li><a href='@Url.Action("Tutorial", "Home")' class="nav-enlace">Tutorial</a></li>
+                <li><a href='@Url.Action("Creditos", "Home")' class="nav-enlace">Créditos</a></li>
             </ul>
         </nav>
-    </header>
+</header>
 <main>
     <div>
         <h2>LA PROFESÍA DEL FARAÓN</h2>
@@ -20,7 +20,7 @@
     </div>
         
     <section>
-        <img src="img/FotosDescriptivas.jpg" alt="Descripción">
+        <img src="~/img/FotosDescriptivas.jpg" alt="Descripción">
         <a href='@Url.Action("Comenzar", "Home")' class="btn btn-outline-danger" tabindex="-1" role="button" aria-disabled="true">Comenzar</a>
     </section>
 </main>

@@ -15,6 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        Escape.ReinciarJuego();
         return View();
     }
 
@@ -23,7 +24,6 @@ public class HomeController : Controller
     }
 
     public IActionResult Comenzar(){
-        Escape.estadoJuego=1;
         int habitacion=Escape.GetEstadoJuego();
         return View($"habitacion{habitacion}");
     }
@@ -48,6 +48,10 @@ public class HomeController : Controller
     }
 
     public IActionResult Creditos(){
+        return View();
+    }
+
+    public IActionResult Derrota(){
         return View();
     }
 }

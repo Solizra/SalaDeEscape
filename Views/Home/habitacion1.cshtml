@@ -1,7 +1,8 @@
 @{
     ViewData["Title"] = "Habitación 1";
 }
-<section class="habitaciones sala-egipto">
+<section class="sala-egipto">
+    <div id="contador">7:00</div>
     <div class="intro-container">
         <h1>Bienvenidos a la primera habitación de la pirámide</h1>
         <div class="intro-text">
@@ -21,7 +22,7 @@
             <input type="text" name="clave" class="entrada-clave" placeholder="Introduce tu respuesta aquí">
             <input type="submit" value="Enviar Respuesta" class="btn btn-respuesta">
         </form>
-        
+
         <button class="btn btn-pista" id="habitacion1" aria-label="Obtener pista">Pista</button>
         <p class="mensaje-error">@ViewBag.MensajeError</p>
     </div>

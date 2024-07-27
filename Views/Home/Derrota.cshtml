@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Derrota";
+}
+<body class="final">
+    <section class="Victoria">
+    <div class="VictoriaDiv">
+        <h1>¡Perdiste!</h1>
+        <h4>Debido al tiempo que tardaste en descifrar el enigma, invocaste al Faraón y te atrapó antes que pudieras salir vivo del templo egipcio.</h4>
+    </div>
+    
+    <img src="~/img/derrota.jpeg" alt="PuertaFinal" class="imagenFinal">
+
+    <div class="final-form-container">
+        <a href='@Url.Action("Index", "Home")' class="btn btn-outline-danger" tabindex="-1" role="button" aria-disabled="true">Volver a intentarlo</a>
+    </div>
+</section>
+</body>
