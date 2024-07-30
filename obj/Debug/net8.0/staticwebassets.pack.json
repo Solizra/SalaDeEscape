@@ -1,123 +1,123 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Acertijo1.jpg",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Acertijo1.jpg",
       "PackagePath": "staticwebassets\\img\\Acertijo1.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Acertijo2.jpg",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Acertijo2.jpg",
       "PackagePath": "staticwebassets\\img\\Acertijo2.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Acertijo3.png",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Acertijo3.png",
       "PackagePath": "staticwebassets\\img\\Acertijo3.png"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Acertijo4.png",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Acertijo4.png",
       "PackagePath": "staticwebassets\\img\\Acertijo4.png"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Final.jpeg",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Final.jpeg",
       "PackagePath": "staticwebassets\\img\\Final.jpeg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Indiana.jpeg",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Indiana.jpeg",
       "PackagePath": "staticwebassets\\img\\Indiana.jpeg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Logo.png",
-      "PackagePath": "staticwebassets\\img\\Logo.png"
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\LOGO.png",
+      "PackagePath": "staticwebassets\\img\\LOGO.png"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Lucas.jpeg",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Lucas.jpeg",
       "PackagePath": "staticwebassets\\img\\Lucas.jpeg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Milo.jpeg",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Milo.jpeg",
       "PackagePath": "staticwebassets\\img\\Milo.jpeg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\PuertaFinal.jpeg",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\PuertaFinal.jpeg",
       "PackagePath": "staticwebassets\\img\\PuertaFinal.jpeg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Sol.jpeg",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Sol.jpeg",
       "PackagePath": "staticwebassets\\img\\Sol.jpeg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Thumbs.db",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Thumbs.db",
       "PackagePath": "staticwebassets\\img\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Tutorial.jpg",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Tutorial.jpg",
       "PackagePath": "staticwebassets\\img\\Tutorial.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\derrota.jpeg",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\derrota.jpeg",
       "PackagePath": "staticwebassets\\img\\derrota.jpeg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\fotosdescriptivas.jpg",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\fotosdescriptivas.jpg",
       "PackagePath": "staticwebassets\\img\\fotosdescriptivas.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

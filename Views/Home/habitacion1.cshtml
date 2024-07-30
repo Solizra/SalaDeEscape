@@ -17,7 +17,7 @@
         <p class="respuesta">Respuesta:</p>
         <h2>(Divida el número obtenido en la punta de la pirámide por /25 para poder pasar de habitación)</h2>
         
-        <form method="post" action="@Url.Action("Habitacion", "Home")" class="formulario-respuesta">
+        <form method="post" action='@Url.Action("Habitacion", "Home")' class="formulario-respuesta">
             <input type="hidden" name="sala" value="1">
             <input type="text" name="clave" class="entrada-clave" placeholder="Introduce tu respuesta aquí">
             <input type="submit" value="Enviar Respuesta" class="btn btn-respuesta">

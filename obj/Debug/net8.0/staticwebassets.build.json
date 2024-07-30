@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W2kZBe5vkK5ERmyunDrDu/KL7TlLq3VgXwCqPYoLlGs=",
+  "Hash": "SO56MnBCPPw4wX/W2ndWovW+KExKrZkwS/iC/4CwdII=",
   "Source": "SalaDeEscape",
   "BasePath": "_content/SalaDeEscape",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SalaDeEscape\\wwwroot",
       "Source": "SalaDeEscape",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\css\\site.css",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\favicon.ico",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Acertijo1.jpg",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Acertijo1.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Acertijo1.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Acertijo1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Acertijo2.jpg",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Acertijo2.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Acertijo2.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Acertijo2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Acertijo3.png",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Acertijo3.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Acertijo3.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Acertijo3.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Acertijo4.png",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Acertijo4.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Acertijo4.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Acertijo4.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\derrota.jpeg",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\derrota.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/derrota.jpeg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\derrota.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Final.jpeg",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Final.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Final.jpeg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Final.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\fotosdescriptivas.jpg",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\fotosdescriptivas.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/fotosdescriptivas.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fotosdescriptivas.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Indiana.jpeg",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Indiana.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Indiana.jpeg",
       "AssetKind": "All",
@@ -207,12 +207,12 @@
       "OriginalItemSpec": "wwwroot\\img\\Indiana.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Logo.png",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\LOGO.png",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
-      "RelativePath": "img/Logo.png",
+      "RelativePath": "img/LOGO.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\LOGO.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Lucas.jpeg",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Lucas.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Lucas.jpeg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Lucas.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Milo.jpeg",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Milo.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Milo.jpeg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Milo.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\PuertaFinal.jpeg",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\PuertaFinal.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/PuertaFinal.jpeg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\PuertaFinal.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Sol.jpeg",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Sol.jpeg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Sol.jpeg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Sol.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Thumbs.db",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Thumbs.db",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Thumbs.db",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\img\\Tutorial.jpg",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Tutorial.jpg",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "img/Tutorial.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Tutorial.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\js\\site.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
