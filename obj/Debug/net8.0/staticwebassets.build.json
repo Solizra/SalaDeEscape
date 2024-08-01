@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SO56MnBCPPw4wX/W2ndWovW+KExKrZkwS/iC/4CwdII=",
+  "Hash": "0qGgzY8ZpTtVkXsFaxd6tbekWeSU/WA2dtJY4PXWT6g=",
   "Source": "SalaDeEscape",
   "BasePath": "_content/SalaDeEscape",
   "Mode": "Default",
@@ -36,12 +36,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\ICONO.ico",
       "SourceId": "SalaDeEscape",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/SalaDeEscape",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "ICONO.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\ICONO.ico"
     },
     {
       "Identity": "C:\\Users\\48313633\\SalaDeEscape\\wwwroot\\img\\Acertijo1.jpg",
